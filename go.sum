@@ -9,6 +9,8 @@ github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5
 github.com/tomjamescn/siri v0.0.0-20200512130051-664587777ba7/go.mod h1:0WwW9rImHHkV1czwGIccRCZ1oCdVzJIgB4mltRse2BM=
 github.com/tomjamescn/siri-whatismyip v0.0.0-20200512133115-db8a94250fe6 h1:itXIKtoQVdY9aGf60icEgh4kRHJjdyry2zww5SRQvI4=
 github.com/tomjamescn/siri-whatismyip v0.0.0-20200512133115-db8a94250fe6/go.mod h1:hlRsi4HjqkuuclyxEwYFKEvgDlv/ENyzwIXrMhPUh/Q=
+github.com/tomjamescn/siri-whatismyip v0.0.0-20200512135345-bb15c90c1e41 h1:z/b+HuP0eD1uq/kUs4YhHpFFmGkpcBRjbqvsniYK4aA=
+github.com/tomjamescn/siri-whatismyip v0.0.0-20200512135345-bb15c90c1e41/go.mod h1:hlRsi4HjqkuuclyxEwYFKEvgDlv/ENyzwIXrMhPUh/Q=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/net v0.0.0-20200202094626-16171245cfb2/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
 golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
