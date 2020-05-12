@@ -15,6 +15,6 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	if h, ok := registry.Center[service]; ok {
 		h.ServeHTTP(w, r)
 	} else {
-		fmt.Fprintf(w, "Not Support")
+		fmt.Fprintf(w, "Not Support. service: %s", service)
 	}
 }
