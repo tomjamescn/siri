@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
+	_ "github.com/tomjamescn/siri-whatismyip"
 	"github.com/tomjamescn/siri/registry"
 )
 
